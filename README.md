@@ -4,6 +4,10 @@
 - 🔭 I’m currently a 3rd Year Computer Science student at Trinity College Dublin
 - 🌱 I’m currently learning about Arduino
 
+## 📫 How to reach me: 
+- [LinkedIn](https://www.linkedin.com/in/akhan04/)
+- [Gmail](mailto:khan.abdullah0416@gmail.com)
+
 ## ✨ Experience:
 
 - 🏎️ State Estimation at Formula Trinity
@@ -20,10 +24,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-## 📫 How to reach me: 
-- [LinkedIn](https://www.linkedin.com/in/akhan04/)
-- [Gmail](mailto:khan.abdullah0416@gmail.com)
 
 ## ➕ Extras : <br />
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
