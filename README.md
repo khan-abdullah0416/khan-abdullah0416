@@ -16,6 +16,7 @@
 ## 🚀 Projects:
 
 - 🛠️ [CodeCraft](https://github.com/TCD-SWENG-Group-18-2024/CodeCraft): A tool for developers to perform code analysis, code completion, code generation and code translation
+- 🕹️ [Reversi with AI Minimax Algorithm](https://github.com/khan-abdullah0416/reversi-minimax-algorithm): Play Reversi with an AI running a minimax algorithm with alpha-beta pruning
 - 🌐 [F1 Telemetry API](https://github.com/khan-abdullah0416/f1-24-telemetry-api): A REST API that displays car telemetry data for the F1 24 game
 - 🚩 [A* Pathfinder Visualiser](https://github.com/khan-abdullah0416/pathfinder-visualiser): Visualise and discover how A* search finds the shortest path in custom scenarios
 
